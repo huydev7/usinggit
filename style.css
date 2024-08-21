@@ -1,0 +1,8 @@
+/* Đây là một comment trong CSS */
+body {
+    font-family: Arial, sans-serif; /* Thiết lập font chữ */
+    background-color: #f0f0f0; /* Màu nền */
+    color: #333; /* Màu chữ */
+    margin: 0; /* Xóa margin mặc định */
+    padding: 20px; /* Thêm padding */
+}
